@@ -17,11 +17,8 @@
 
 ### ✨ Thanks you!
 
-<img src="https://media.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif" width="512px"/>
+<img src="https://media.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif" width="312px"/>
 
 ---
  
-[![](https://i.imgur.com/djs6cMm.gif){width=200px}](https://gprm.itsvg.in)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
