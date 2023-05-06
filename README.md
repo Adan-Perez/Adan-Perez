@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Sacramento&lines=👋+Welcome!+👋;I'm+Adan!) 
+
+
 # 💫 About Me:
 👨‍💻 I’m currently working on my personals proyects<br>✨ I’m currently learning Web development <br>💬 Talk with me about new ideas<br>⚡ Fun fact
 
