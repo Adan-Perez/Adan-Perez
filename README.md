@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👨‍💻 I’m currently working on my personals proyects<br>✨ I’m currently learning Web development <br>💬 Talk with me about new ideas<br>⚡ Fun fact
+👨‍💻 I’m currently working on my personals proyects<br>✨ I’m currently learning Web development <br>💬 Talk with me about new ideas
 
 
 ## 🌐 Socials:
