@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👨‍💻 Passionate about learning every day<br>✨ Currently learning Web development <br>💬 Talk with me about new ideas
+👨‍💻 Passionate about learning every day<br>✨ Currently learning Frontend and Backend development<br>💬 Talk with me about new ideas
 
 
 ## 🌐 Socials:
