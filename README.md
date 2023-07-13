@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Sacramento&lines=👋+Welcome!+👋;I'm+Adan!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Sacramento&lines=👋+Welcome!+👋;I'm+Adan!;Junior+Developer) 
 
 
 # 💫 About Me:
-👨‍💻 I’m currently working on my personals proyects<br>✨ I’m currently learning Web development <br>💬 Talk with me about new ideas
+👨‍💻 Passionate about learning every day<br>✨ Currently learning Web development <br>💬 Talk with me about new ideas
 
 
 ## 🌐 Socials:
