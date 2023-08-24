@@ -20,7 +20,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ## 📊 Projects 🎴
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Oxygen&lines=Click+the!+Banners)
+   
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Oxygen&lines=Click+the!+Banners)
+    
   <a href="https://github.com/stars/Adan-Perez/lists/javascript" margin="10px">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40">
   </a>
