@@ -21,13 +21,15 @@
 
 ## Projects:
 
-<div class="project-container">
+<div>
   <a href="https://github.com/stars/Adan-Perez/lists/javascript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40" >
   </a>
+
   <a href="https://github.com/stars/Adan-Perez/lists/typescript">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="40">
   </a>
+
   <a href="https://github.com/stars/Adan-Perez/lists/vue-js">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" width="100" height="40">
   </a>
@@ -72,31 +74,6 @@
 
 ### ✨ Thanks you!
 
-<img src="https://media.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif" width="312px"/>
-
----
-
-<style>
-  .project-container {
-    display: flex; 
-    justify-content: space-around; 
-    align-items: center; 
-  }
-
-  .project-container a {
-    text-decoration: none; 
-    margin: 5px;  
-    padding: 5px;  
-    border: 1px solid #ccc;  
-    border-radius: 5px;  
-    background-color: #f0f0f0;  
-    transition: background-color 0.3s, transform 0.3s;  
-  }
-
-  .project-container a:hover {
-    background-color: #ccc;  
-    transform: scale(1.1);  
-  }
-</style>
+<img src="https://media.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif" width="312px" align="right" alt="GIF" height="auto" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
