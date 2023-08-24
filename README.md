@@ -21,19 +21,18 @@
 
 ## Projects:
 
-<div>
-  <a href="https://github.com/stars/Adan-Perez/lists/javascript">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40" margin="10px">
+  <a href="https://github.com/stars/Adan-Perez/lists/javascript" margin="10px">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40">
   </a>
 
-  <a href="https://github.com/stars/Adan-Perez/lists/typescript">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="40" margin="10px">
+  <a href="https://github.com/stars/Adan-Perez/lists/typescript"  margin="10px">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="40">
   </a>
 
-  <a href="https://github.com/stars/Adan-Perez/lists/vue-js">
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" width="100" height="40" margin="10px">
+  <a href="https://github.com/stars/Adan-Perez/lists/vue-js" margin="10px">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" width="100" height="40">
   </a>
-</div>
+ 
 
 ### 📚 Learning 👨🏻‍💻
 
