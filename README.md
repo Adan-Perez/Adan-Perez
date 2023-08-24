@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" width="100" height="40">
   </a>
 
- <a href=" https://github.com/stars/Adan-Perez/lists/php" margin="10px">
+ <a href="https://github.com/stars/Adan-Perez/lists/php" margin="10px">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" width="100" height="40">
   </a>
   
