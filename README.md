@@ -23,15 +23,15 @@
 
 <div>
   <a href="https://github.com/stars/Adan-Perez/lists/javascript">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40" >
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40" margin="10px">
   </a>
 
   <a href="https://github.com/stars/Adan-Perez/lists/typescript">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="40">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="40" margin="10px">
   </a>
 
   <a href="https://github.com/stars/Adan-Perez/lists/vue-js">
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" width="100" height="40">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" width="100" height="40" margin="10px">
   </a>
 </div>
 
@@ -74,6 +74,6 @@
 
 ### ✨ Thanks you!
 
-<img src="https://media.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif" width="312px" align="right" alt="GIF" height="auto" />
+<img src="https://media.tenor.com/YcRLyel0MgcAAAAC/mikey-tokyo-revengers-tokyo-revengers.gif" width="312px" alt="GIF" height="auto" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
