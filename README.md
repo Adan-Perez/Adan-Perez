@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-## Projects:
+## 📊 Projects🗓 
 
   <a href="https://github.com/stars/Adan-Perez/lists/javascript" margin="10px">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40">
@@ -32,8 +32,19 @@
   <a href="https://github.com/stars/Adan-Perez/lists/vue-js" margin="10px">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" width="100" height="40">
   </a>
- 
 
+   <a href="https://github.com/stars/Adan-Perez/lists/html-css" margin="10px">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="Html Css" width="100" height="40">
+  </a>
+  
+   <a href="https://github.com/stars/Adan-Perez/lists/react" margin="10px">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" width="100" height="40">
+  </a>
+
+ <a href=" https://github.com/stars/Adan-Perez/lists/php" margin="10px">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" width="100" height="40">
+  </a>
+  
 ### 📚 Learning 👨🏻‍💻
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
