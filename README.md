@@ -31,7 +31,7 @@ Here you can see the list of projects I have developed:
 
 - [**React y Next.js**](https://github.com/stars/Adan-Perez/lists/react) ⚛️
 
-- [**Vue.js**](https://github.com/stars/Adan-Perez/lists/vue-js) 🔰
+- [**Vue.js**](https://github.com/stars/Adan-Perez/lists/vue-js) 👾
 
 - [**HTML y CSS**](https://github.com/stars/Adan-Perez/lists/html-css) 🎨
 
