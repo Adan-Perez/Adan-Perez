@@ -22,33 +22,23 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## 📊 Projects 🎴
-   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Oxygen&lines=Click+the+Banners!)
-    
-  <a href="https://github.com/stars/Adan-Perez/lists/javascript-node-js" margin="10px">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="40">
-  </a>
 
-  <a href="https://github.com/stars/Adan-Perez/lists/typescript"  margin="10px">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="100" height="40">
-  </a>
+Here you can see the list of projects I have developed:
 
-  <a href="https://github.com/stars/Adan-Perez/lists/vue-js" margin="10px">
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" width="100" height="40">
-  </a>
+- [**JavaScript y Node.js**](https://github.com/stars/Adan-Perez/lists/javascript-node-js) 🌐
 
-   <a href="https://github.com/stars/Adan-Perez/lists/html-css" margin="10px">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="Html Css" width="100" height="40">
-  </a>
-  
-   <a href="https://github.com/stars/Adan-Perez/lists/react" margin="10px">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" width="100" height="40">
-  </a>
+- [**TypeScript**](https://github.com/stars/Adan-Perez/lists/typescript) 💻
 
- <a href="https://github.com/stars/Adan-Perez/lists/php" margin="10px">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" width="100" height="40">
-  </a>
-  
+- [**React y Next.js**](https://github.com/stars/Adan-Perez/lists/react) ⚛️
+
+- [**Vue.js**](https://github.com/stars/Adan-Perez/lists/vue-js) 🔰
+
+- [**HTML y CSS**](https://github.com/stars/Adan-Perez/lists/html-css) 🎨
+
+*Feel free to explore them and contribute! If you have any questions or suggestions, please do not hesitate to contact me.*
+
+---
+
 ### 📚 Learning 👨🏻‍💻
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
