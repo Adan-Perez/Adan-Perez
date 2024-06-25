@@ -43,7 +43,7 @@ Here you can see the list of projects I have developed:
 
 - [**Vue.js**](https://github.com/stars/Adan-Perez/lists/vue-js) 👾
 
-- [**HTML - CSS**](https://github.com/stars/Adan-Perez/lists/html-css) 🎨
+- [**HTML**](https://github.com/Adan-Perez/Projects-in-HTML-CSS-JS) 🎨
 
 _Feel free to explore them and contribute! If you have any questions or suggestions, please do not hesitate to contact me._
 
