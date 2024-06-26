@@ -1,8 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Sacramento&lines=👋+Welcome!+👋;I'm+Adan!;Junior+Developer)
 
-<img align="right" height="120" src="https://avatars.githubusercontent.com/u/91911634" />
 
 # 💫 About Me:
+
+<img align="right" height="120" src="https://avatars.githubusercontent.com/u/91911634" />
 
 👨‍💻 Passionate about learning every day<br>✨ Currently learning Frontend and Backend development<br>💬 Talk with me about new ideas
 
