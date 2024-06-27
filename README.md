@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 
-### 🔰 Principal Stack 🔰
+### 🔰 Main Stack 🔰
 
 #### 🌀 Frontend 🌀
 
@@ -44,7 +44,7 @@ _Click on the icons to explore the projects!_
 ### Vue.js
 [![Vue.js Projects](https://skillicons.dev/icons?i=vue)](https://github.com/stars/Adan-Perez/lists/vue-js)
 
-_Feel free to explore them and contribute! If you have any questions or suggestions, please do not hesitate to contact me._
+_Feel free to explore them and contribute! If you have any questions or suggestions, please don't doubt to contact me._
 
 ---
 
@@ -58,7 +58,7 @@ _Feel free to explore them and contribute! If you have any questions or suggesti
 
 ---
 
-### ✨ Thanks you!
+### ✨ Thanks!
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRnZDYyNTM0MDBhc2dha3p1c2hocDJ6NDJicHEzbDl1bjBoMGtxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.webp" width="100%" alt="GIF" height="auto" />
 
