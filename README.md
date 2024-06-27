@@ -33,7 +33,7 @@
 _Click on the icons to explore the projects!_
 
 ### TypeScript & Node.js
-[![TypeScript & Node.js Projects](https://skillicons.dev/icons?i=nodejs,express,ts)](https://github.com/Adan-Perez/Projects-in-Node-Nestjs)
+[![TypeScript & Node.js Projects](https://skillicons.dev/icons?i=nodejs,express,ts)](https://github.com/Adan-Perez/Projects-in-Nodejs-Nestjs)
 
 ### React & Next.js
 [![React & Next.js Projects](https://skillicons.dev/icons?i=react,next)](https://github.com/Adan-Perez/Projects-in-React-Nextjs)
