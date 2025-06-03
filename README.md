@@ -14,7 +14,7 @@ Currently focused on both Frontend and Backend development.
   <tr>
     <td align="center" valign="top">
       <a href="https://ink-hollow.vercel.app/">
-        <img src="images/ink-hollow.png" width="300" alt="Ink Hollow"/><br/>
+        <img src="images/ink-hollow.png" width="340" height="200" alt="Ink Hollow"/><br/>
         <b>Ink Hollow</b>
       </a>
       <br/>
@@ -32,7 +32,7 @@ Currently focused on both Frontend and Backend development.
     </td>
     <td align="center" valign="top">
       <a href="https://mern-snippets-4-vscode.netlify.app/">
-        <img src="images/mern-extension.png" width="300" alt="MERN Snippets 4 VSCode"/><br/>
+        <img src="images/mern-extension.png" width="340"  height="200" alt="MERN Snippets 4 VSCode"/><br/>
         <b>MERN Snippets 4 VSCode</b>
       </a>
       <br/>
@@ -50,7 +50,7 @@ Currently focused on both Frontend and Backend development.
     </td>
     <td align="center" valign="top">
       <a href="https://adanperez-cyberpunk-website-react.netlify.app/">
-        <img src="images/cyberpunk-website.png" width="300" alt="Cyberpunk Website"/><br/>
+        <img src="images/cyberpunk-website.png" width="340"  height="200" alt="Cyberpunk Website"/><br/>
         <b>Cyberpunk Website</b>
       </a>
       <br/>
