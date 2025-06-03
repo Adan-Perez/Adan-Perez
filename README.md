@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Sacramento&lines=👋+Welcome!+👋;I'm+Adan!;Junior+Developer)
+[⚠️ Suspicious Content] ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Sacramento&lines=👋+Welcome!+👋;I'm+Adan!;Junior+Developer)
 
 # 💫 About Me:
 
@@ -10,9 +10,60 @@ Currently focused on both Frontend and Backend development.
 
 ## 🚀 Latest Projects
 
-|                                                                                                                                                                                                          [![Ink Hollow](images/ink-hollow.png)](https://ink-hollow.vercel.app/)                                                                                                                                                                                                           |                                                                                                                                                                                                [![MERN Snippets 4 VSCode](images/mern-extension.png)](https://mern-snippets-4-vscode.netlify.app/)                                                                                                                                                                                                 |                                                                                                           [![Cyberpunk Website](images/cyberpunk-website.png)](https://adanperez-cyberpunk-website-react.netlify.app/)                                                                                                            |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **[Ink Hollow](https://ink-hollow.vercel.app/)**<br> <sub>**Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express, Firebase Firestore, Cloudinary<br>**Features:**<br>- Clean and minimal tattoo studio website<br>- Browse tattoo designs & company photos<br>- Contact & booking system with database<br>- AI-powered tattoo design inspiration<br>- Cloudinary image storage<br>- Email confirmations (user & studio)<br>- PDF appointment with QR code<br>- Dark mode</sub> | **[MERN Snippets 4 VSCode](https://mern-snippets-4-vscode.netlify.app/)**<br> <sub>**Tech Stack:** JavaScript, React, Node.js, VSCode Extension API, Tailwind CSS<br>**Features:**<br>- VSCode extension for MERN stack projects<br>- Generate boilerplate & components via commands<br>- Snippets for MongoDB, Express, React, Node.js<br>- Mongoose connection & React component helpers<br>- Tailwind CSS support<br>- Easy access via command palette<br>- Full documentation & previews</sub> | **[Cyberpunk Website](https://adanperez-cyberpunk-website-react.netlify.app/)**<br> <sub>**Tech Stack:** React, Tailwind CSS, Framer Motion<br>**Features:**<br>- Landing page inspired by cyberpunk, anime, and games<br>- Neon colors, animated transitions, and futuristic UI<br>- Simple, responsive, and visually bold</sub> |
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://ink-hollow.vercel.app/">
+        <img src="images/ink-hollow.png" width="300" alt="Ink Hollow"/><br/>
+        <b>Ink Hollow</b>
+      </a>
+      <br/>
+      <sub>
+        <b>Tech Stack:</b> React, TypeScript, Tailwind CSS, Node.js, Express, Firebase Firestore, Cloudinary<br/>
+        <b>Features:</b><br/>
+        - Clean and minimal tattoo studio website<br/>
+        - Browse tattoo designs & company photos<br/>
+        - Contact & booking system with database<br/>
+        - AI-powered tattoo design inspiration<br/>
+        - Cloudinary image storage<br/>
+        - Email confirmations (user & studio) & PDF appointment with QR code<br/>
+        - Dark mode
+      </sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://mern-snippets-4-vscode.netlify.app/">
+        <img src="images/mern-extension.png" width="300" alt="MERN Snippets 4 VSCode"/><br/>
+        <b>MERN Snippets 4 VSCode</b>
+      </a>
+      <br/>
+      <sub>
+        <b>Tech Stack:</b> JavaScript, React, Node.js, VSCode Extension API, Tailwind CSS<br/>
+        <b>Features:</b><br/>
+        - VSCode extension for MERN stack projects<br/>
+        - Generate boilerplate & components via commands<br/>
+        - Snippets for MongoDB, Express, React, Node.js<br/>
+        - Mongoose connection & React component helpers<br/>
+        - Tailwind CSS support<br/>
+        - Easy access via command palette<br/>
+        - Full documentation & previews
+      </sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://adanperez-cyberpunk-website-react.netlify.app/">
+        <img src="images/cyberpunk-website.png" width="300" alt="Cyberpunk Website"/><br/>
+        <b>Cyberpunk Website</b>
+      </a>
+      <br/>
+      <sub>
+        <b>Tech Stack:</b> React, Tailwind CSS, Framer Motion<br/>
+        <b>Features:</b><br/>
+        - Landing page inspired by cyberpunk, anime, and games<br/>
+        - Neon colors, animated transitions, and futuristic UI<br/>
+        - Simple, responsive, and visually bold
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with me
 
