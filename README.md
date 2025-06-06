@@ -42,7 +42,7 @@
         <b>🛠️ Stack:</b> TypeScript, VSCode API<br/>
         <b>✨ Highlights:</b><br/>
         • VSCode extension for MERN stack<br/>
-        • 15+ code snippets & templates<br/>
+        • 20+ code snippets & templates<br/>
         • Command palette integration<br/>
         • Boost development productivity<br/>
         • 850+ installs
