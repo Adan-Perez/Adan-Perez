@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&font=Sacramento&lines=👋+Welcome!+👋;I'm+Adan!;Junior+Developer;Full+Stack+Enthusiast;Open+to+Collaborate!)
+![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=1000&color=02D9F7&center=false&vCenter=true&width=500&lines=%E2%94%8C%E2%94%80%5Bgithub%5D%3AAdan-Perez+%5B(main)%5D>)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=02D9F7&center=false&vCenter=true&width=1000&lines=%E2%94%94%E2%94%80+%3E+👋+Welcome!+👋;%E2%94%94%E2%94%80+%3E+I'm+Adan!;%E2%94%94%E2%94%80+%3E+Junior+Developer;%E2%94%94%E2%94%80+%3E+Open+to+Collaborate!)
 
 # 💫 About Me
 
